@@ -1,0 +1,9 @@
+name = input("what is your name?")
+
+age = input("how old are you?")
+
+if (int(age) >21):
+    print("you are old")
+else:
+    print("you are young")
+
