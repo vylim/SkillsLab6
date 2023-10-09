@@ -4,6 +4,11 @@ into the terminal.
 Then after it should appear on the left tab of your screen on JupyterHub.
 Click on the SkillsLab6 and run the code.
 
+Code of Conduct:
+To ensure the integrity of our users and audiences, it is important to stay respectful and responsible. If any form of 
+harassment is noticed, consequences will be held toward the user (this may include a warning, temporary ban, permanent ban, etc.) 
+Please use this repository as a safe and healthy environment. Thank you!
+
 In Vivien's code, the program asks the user to insert their name.
 Then the user will be asked to insert a number.
 If the user enters a number lower than 50, the program will output "<given number> is less than 50."
