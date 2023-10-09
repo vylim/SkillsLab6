@@ -1,4 +1,9 @@
 # SkillsLab6
+To use this code, copy "git clone git@github.com:vylim/SkillsLab6.git" (do not include the quotation marks) 
+into the terminal.
+Then after it should appear on the left tab of your screen on JupyterHub.
+Click on the SkillsLab6 and run the code.
+
 In Vivien's code, the program asks the user to insert their name.
 Then the user will be asked to insert a number.
 If the user enters a number lower than 50, the program will output "<given number> is less than 50."
