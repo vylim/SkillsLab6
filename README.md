@@ -9,6 +9,9 @@ To ensure the integrity of our users and audiences, it is important to stay resp
 harassment is noticed, consequences will be held toward the user (this may include a warning, temporary ban, permanent ban, etc.) 
 Please use this repository as a safe and healthy environment. Thank you!
 
+License:
+A license is used to protect open software and allows the user to only do certain things without plagiarising.
+
 In Vivien's code, the program asks the user to insert their name.
 Then the user will be asked to insert a number.
 If the user enters a number lower than 50, the program will output "<given number> is less than 50."
